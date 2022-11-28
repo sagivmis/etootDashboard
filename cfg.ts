@@ -1,3 +1,4 @@
+
 export const defaultSensors = [
   {
     sensor_ble_id: "ABCDEFGH",
